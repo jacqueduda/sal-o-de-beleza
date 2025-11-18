@@ -38,6 +38,9 @@ O objetivo é transmitir sofisticação, bem-estar e profissionalismo, oferecend
 <p>(Todo o layout foi cuidadosamente ajustado para manter estética e funcionalidade em qualquer dispositivo.)</p>
 <h1>🚀 Objetivo</h1>
 <p>Criar uma experiência digital acolhedora, moderna e confiável para clientes que desejam conhecer e agendar serviços no salão de beleza.</p>
+<br>
+
+<img src="https://github.com/jacqueduda/sal-o-de-beleza/blob/main/assets/siteresponsivo.png?raw=true"/>
 
 
 
